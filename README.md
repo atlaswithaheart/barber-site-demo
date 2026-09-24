@@ -7,6 +7,6 @@ Preview:
 <img width="1883" height="922" alt="image" src="https://github.com/user-attachments/assets/86611b25-f874-44ad-9a5a-b25c9fd69f91" />
 <img width="1910" height="915" alt="image" src="https://github.com/user-attachments/assets/dd5748f5-23bc-4bc2-9976-d73899269273" />
 
-## To view the full site, go to https://atlaswithaheart.github.io/barber-site-demo/
+## Check out the full site at https://atlaswithaheart.github.io/barber-site-demo/
 
 
